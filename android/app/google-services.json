@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239864926327",
+    "project_id": "the-vet-app-fa9d6",
+    "storage_bucket": "the-vet-app-fa9d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239864926327:android:cd28ebd968f5ed839d7672",
+        "android_client_info": {
+          "package_name": "com.example.the_vet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4U2bwOdIs1jhqAH7Ss1jf4U3sezsrtj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
